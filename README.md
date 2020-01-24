@@ -12,7 +12,11 @@
 
 01.要件定義/要件定義書.xmind
 
-XMindというフリーソフトを使って作成してあります。ダウンロードはこちら。
+XMindというフリーソフトを使って作成してあります。
+
+http://jp.xmind.net/
+
+ダウンロードはこちら。
 
 http://jp.xmind.net/download
 
@@ -28,6 +32,10 @@ http://jp.xmind.net/download
 
 画面設計書、画面遷移図については、今のところ、サンプルを用意していません。
 
-画面設計図については、こちらのフリーソフトを使うと便利です。ダウンロードはこちら。
+画面設計図については、Pencilというフリーソフトを使うと便利です。
+
+https://pencil.evolus.vn/
+
+ダウンロードはこちら。
 
 https://pencil.evolus.vn/Downloads.html
