@@ -39,10 +39,7 @@ http://jp.xmind.net/download
 
 画面設計書、画面遷移図については、今のところ、サンプルを用意していません。
 
-画面設計図については、Pencilというフリーソフトを使うと便利です。
+画面設計図については、「Draw.io」というWebサイトを使うと簡単に作成できます。
 
-https://pencil.evolus.vn/
+https://app.diagrams.net/
 
-ダウンロードはこちら。
-
-https://pencil.evolus.vn/Downloads.html
