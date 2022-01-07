@@ -12,13 +12,15 @@
 
 01.要件定義/要件定義書.xmind
 
-XMindというフリーソフトを使って作成してあります。
+XMind 8 というフリーソフトを使って作成してあります。
 
 http://jp.xmind.net/
 
 ダウンロードはこちら。
 
-http://jp.xmind.net/download
+https://jp.xmind.net/download/previous
+
+XMind 8の最新版をダウンロードしてインストールしてください。
 
 ### 要件定義書の例
 01.要件定義/要件定義書.pdf
