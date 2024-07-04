@@ -18,7 +18,7 @@ http://jp.xmind.net/
 
 ダウンロードはこちら。
 
-https://jp.xmind.net/download/previous
+https://jp.xmind.net/download/xmind8
 
 XMind 8の最新版をダウンロードしてインストールしてください。
 
